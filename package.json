@@ -30,7 +30,7 @@
     "@ng-bootstrap/ng-bootstrap": "^6.0.2",
     "@yellowspot/ng-truncate": "^1.5.1",
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jwt-decode": "^2.2.0",
     "moment": "^2.24.0",
     "ngx-device-detector": "^1.4.0",
